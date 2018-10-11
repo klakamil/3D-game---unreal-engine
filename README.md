@@ -1,4 +1,4 @@
-# Plan projektu 
+# Plan projektu wersja alfa
 Gra 3d FPS
 
 1. Cel gry: Zabicie wszystkich przeciwników na mapie.
