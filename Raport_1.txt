@@ -1,0 +1,3 @@
+Zrealizowano:
+ 1. Przygotowanie środowiska pracy, Visual Studio i Unreal Engine.
+ 2. Zapoznanie się ze środowiskiem Unreal Engine.
